@@ -1,0 +1,6 @@
+[package]
+name = "practice_one"
+version = "0.1.0"
+authors = ["Dallin Parker <dallin.r.parker@gmail.com>"]
+
+[dependencies]
